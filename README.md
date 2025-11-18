@@ -7,10 +7,6 @@ Mean-Variance | Normalised Semi-Variance | Minimum-Information MV | Rolling Wind
 
 This project compares three portfolio optimisation frameworks implemented over rolling estimation windows to evaluate their performance, stability, and allocation behaviour under realistic constraints.
 
-- MV: Classical Markowitz Mean-Variance
-- NSMV: Normalised Semi-Variance (downside-risk aware)
-- MIMV: Minimum Information Mean-Variance (robust to estimation error)
-
 **🔍 Optimisation Frameworks Included:**
 
 1️⃣ Mean-Variance (MV)
